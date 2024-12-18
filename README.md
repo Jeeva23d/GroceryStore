@@ -70,3 +70,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# grocery" 
 "# GroceryStore" 
+
+
+Output
+
+![WhatsApp Image 2024-12-18 at 21 09 39](https://github.com/user-attachments/assets/cd80a7a8-dc66-476f-94c6-a9353d654195)
+![WhatsApp Image 2024-12-18 at 21 09 38](https://github.com/user-attachments/assets/13e97900-8be4-4576-a136-23c02a06a64e)
+![WhatsApp Image 2024-12-18 at 21 09 38 (3)](https://github.com/user-attachments/assets/e13973a1-18c1-4c54-997a-e2461b07e80f)
+![WhatsApp Image 2024-12-18 at 21 09 38 (2)](https://github.com/user-attachments/assets/f87f8545-f306-4791-8e07-565f0bf96cff)
+![WhatsApp Image 2024-12-18 at 21 09 38 (1)](https://github.com/user-attachments/assets/e73ef9a3-0376-42e2-8b38-fd9ad1071e8c)
+![WhatsApp Image 2024-12-18 at 21 09 37](https://github.com/user-attachments/assets/4c292829-04f7-4807-8dc1-cc764c461191)
+![WhatsApp Image 2024-12-18 at 21 09 37 (3)](https://github.com/user-attachments/assets/27f37e06-a2a7-44d9-bb99-a829e81c5b3d)
+![WhatsApp Image 2024-12-18 at 21 09 37 (2)](https://github.com/user-attachments/assets/e6deeb7f-ebcb-42fb-9c34-a426ea2db7da)
+![WhatsApp Image 2024-12-18 at 21 09 37 (1)](https://github.com/user-attachments/assets/4068d3cc-34a0-4327-8133-2ba35ac07b7e)
+![WhatsApp Image 2024-12-18 at 21 09 36](https://github.com/user-attachments/assets/4fa283a6-c471-4c77-a9a9-66dd24d23876)
+
