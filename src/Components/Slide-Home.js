@@ -12,7 +12,7 @@ export default function Slide() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            style={{ width: "1500px", height: "900px" }}
+            style={{ width: "1300px", height: "600px" }}
             src={Img2}
             alt="First slide"
           />
@@ -20,7 +20,7 @@ export default function Slide() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            style={{ width: "1500px", height: "800px" }}
+            style={{ width: "1200px", height: "600px" }}
             src={Img1}
             alt="Second slide"
           />
@@ -28,7 +28,7 @@ export default function Slide() {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            style={{ width: "1500px", height: "900px" }}
+            style={{ width: "1300px", height: "600px" }}
             src={Img3}
             alt="Third slide"
           />
